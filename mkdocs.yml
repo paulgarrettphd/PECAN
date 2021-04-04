@@ -1,0 +1,101 @@
+site_name: PECAN
+docs_dir: docs
+repo_url: 'https://github.com/paulgarrettphd/PECAN.git'
+repo_name: 'GitHub'
+site_description:
+  Host resources for early career acadmeics who study,
+  research and teach psychological sciences at the
+  University of Melbourne, Australia.
+  
+
+theme:
+  name: null
+  custom_dir: mkdocs-material\material
+
+  
+  static_templates:
+    - 404.html
+    
+  include_search_page: false
+  search_index_only: true
+  
+  language: en
+  features:
+    - navigation.sections
+    - navigation.tabs
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+        
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: images/PECAN.png
+  icon:
+    logo: logo
+  
+  plugins:
+  - search
+  - minify:
+    minify_html: true
+    
+ # extra:
+  # social:
+    # - icon: fontawesome/brands/github
+      # link: https://github.com/squidfunk
+    # - icon: fontawesome/brands/gitter
+      # link: https://gitter.im/squidfunk/mkdocs-material
+    # - icon: fontawesome/brands/docker
+      # link: https://hub.docker.com/r/squidfunk/mkdocs-material/
+    # - icon: fontawesome/brands/twitter
+      # link: https://twitter.com/squidfunk
+    # - icon: fontawesome/brands/linkedin
+      # link: https://linkedin.com/in/squidfunk/
+    # - icon: fontawesome/brands/instagram
+      # link: https://instagram.com/squidfunk
+  
+  
+    
+nav:
+  - PECAN: index.md
+  - ECA Issues: ECA_Issues.md
+  - Committee: Committee.md
+  - Events: Events.md
+  - Members: Members.md
+  - Resources: 
+    - Networks & Committees: Resources_Networks.md
+    - Grants: Resources_Grants.md
+    - Workshops: Resources_Workshops.md
+    - Academic Tools: Resources_ResearchTools.md
+    - Awards: Resources_Awards.md
+    - Outreach: Resources_Outreach.md
+    
+  - Contact: Contact.md
+  
+  
+  #- Resources:
+  #  - Grant writing: 404.html
+  #  - Coding: 404.html
+  #- Events:
+ #   - 2021 AGM: index.md
+  
+  #  - General committee: index.md
+  #- Members:
+  #  - Current members: index.md
+  #  - Past members: index.md
+  #- Contact PECAN: index.md
+  
+ 
+google_analytics:
+  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - auto

@@ -2,15 +2,17 @@
 
 ## Welcome to PECAN
 
-PECAN is the University of Melbourne's Psychological sciences Early Career Academic Network. This network is made by early career academics, for early career academics and is inclusive of both research focused and teaching focused academics.
+*This site is under construction. Many aspects are yet to be filled, however, you are welcome to look around the site and send feedback to Paul Garrett at paul.garrett@unimelb.edu.au*
 
-PECAN provides a peer-to-peer support network for early career academics (ECAs), both research and teaching staff. We aim to facilitate in-person networking, online resource sharing, school and hub ECA advocacy, and ECA career development (identifying milestones ECAs can strive to achive in order to be competative in future grants and job applications).
+PECAN is the University of Melbourne's Psychological sciences Early Career Academic Network. This network is made by early career academics, for early career academics.
+
+PECAN provides a peer-to-peer support network for early career academics (ECAs) who work as research and teaching staff. We aim to facilitate in-person networking, online resource sharing, school and hub ECA advocacy, and ECA career development (identifying milestones ECAs can strive to achive in order to be competative in future grants and job applications).
 
 ---
 
 ## Ethos
 
-PECAN was established to ensure ECA positions (teaching, research, or both) allow ECAs to finish their current position and be competitive as continuing staff at the University of Melbourne or another academic institution, or transition into an industry position.
+PECAN was established to ensure ECAs (teaching, research, or both) finish their current positions having achieved career milestones that make them competitive as continuing staff at the University of Melbourne or another academic institution, that make them competative for self-funded grants, or that allow them to successfully transition into an industry position.
 
 From a grant or hiring perspective, this means ECAs need to meet [R]esearch, [T]eaching, and [L]eadership goals:
 

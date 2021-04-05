@@ -31,7 +31,7 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
+      primary: blue
       accent: blue
       toggle:
         icon: material/weather-sunny
@@ -67,11 +67,12 @@ theme:
   
     
 nav:
-  - PECAN: index.md
-  - ECA Issues: ECA_Issues.md
-  - Committee: Committee.md
-  - Events: Events.md
-  - Members: Members.md
+  - PECAN: 
+    - Welcome to PECAN: index.md
+    - ECA Issues: ECA_Issues.md
+    - Committee: Committee.md
+    - Events: Events.md
+    - Members: Members.md
   - Resources: 
     - Networks & Committees: Resources_Networks.md
     - Grants: Resources_Grants.md
@@ -79,23 +80,9 @@ nav:
     - Academic Tools: Resources_ResearchTools.md
     - Awards: Resources_Awards.md
     - Outreach: Resources_Outreach.md
-    
   - Contact: Contact.md
-  
-  
-  #- Resources:
-  #  - Grant writing: 404.html
-  #  - Coding: 404.html
-  #- Events:
- #   - 2021 AGM: index.md
-  
-  #  - General committee: index.md
-  #- Members:
-  #  - Current members: index.md
-  #  - Past members: index.md
-  #- Contact PECAN: index.md
-  
  
+
 google_analytics:
   - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
   - auto

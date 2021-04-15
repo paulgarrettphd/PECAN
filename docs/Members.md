@@ -30,10 +30,20 @@ Dr. William Bingley
 
 Dr. Jacob Paul
 
+Dr. Natalia Egorova Brumley
+
+Dr. Rebekah Anderson
+
+Dr. Frances Lewis
+
+Dr. Lin Li
+
+Dr. Ilona McNeil
+
 ## PECAN Support
 PECAN is made possible with the ongoing support of the Melbourne School of Psychological Sciences and the associated Research Hubs. 
 
-Specail thanks goes to the coordinators of the researcher hubs, Lauren Fong (Decision Science Hub), Nerisa Dozo (Ethics and Wellbeing Hub), Michael Diamond (Complex Human Data Hub), Melissa Visser (Brain and Mental Health Hub) and Michelle Jongenelis (Centre for Behaviour Change), who were instrumental in identifying Early Carrer Academics when PECAN was founded.
+Special thanks goes to the coordinators of the researcher hubs, Lauren Fong (Decision Science Hub), Nerisa Dozo (Ethics and Wellbeing Hub), Michael Diamond (Complex Human Data Hub), Melissa Visser (Brain and Mental Health Hub) and Michelle Jongenelis (Centre for Behaviour Change), who were instrumental in identifying Early Carrer Academics when PECAN was founded.
 
 Thanks also goes to Deenu Rajaratnam who has been key to formally integrating PECAN with the Melbourne School of Psychological Sciences, and Prof. Amy Jordan for supporting the founding of PECAN through the research and research training sub-committee.
 

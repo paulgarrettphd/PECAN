@@ -11,8 +11,6 @@ site_description:
 theme:
   name: null
   custom_dir: mkdocs-material\material
-
-  
   static_templates:
     - 404.html
     
@@ -69,7 +67,7 @@ theme:
 nav:
   - PECAN: 
     - Welcome to PECAN: index.md
-    - ECA Issues: ECA_Issues.md
+    - Aims: Aims.md
     - Committee: Committee.md
     - Events: Events.md
     - Members: Members.md
@@ -82,7 +80,9 @@ nav:
     - Outreach: Resources_Outreach.md
   - Contact: Contact.md
  
+google_analytics: ['UA-193953779-2', 'auto']
 
-google_analytics:
-  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
-  - auto
+#google_analytics:
+#  - G-NETSS4SCMD
+#  - auto
+  

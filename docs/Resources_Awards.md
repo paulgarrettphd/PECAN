@@ -2,6 +2,13 @@
 
 ## Internal Early Career  Awards
 
+### ReWire Hines Early Career Award
+
+One $1000 award, based on a competitive selection process, bestowed at the MSPS Awards Celebration. All Level A and above fixed term and continuing academics of the School who were awarded their PhD in the preceding 5 years (7-8 with career interuptions), who hold at least a 0.5FTE position in the School, and whose research is in the field of clinical or cognitive neuroscience and/or clinical neuropsychology may apply. The award must be expended in full by 30 Nov. 
+
+Applicants will submit a short (two pages maximum) application that 1) documents their eligibility for the award (including description of their career interruption if appropriate); 2) outlines the proposed request and how the award will be spent on it; and 3) provides a short justification of the request in terms of its expected career benefit. 
+
+
 ### Friends of Psychology Early Career Award
 Submission Date: Late March - Early April
 
@@ -9,7 +16,7 @@ Two $1000 awards, based on a competitive selection process, bestowed at the MSPS
 
 Applicants will make a specific request for funding to support a research-related purpose that is not covered by existing staff entitlements (e.g., to support research-related travel, help organise a Conference, attend a Conference or professional development activity, purchase equipment, research assistance or publication costs). The award would have to be expended in full by 30 Nov. 
 
-Applicants will submit a short (two pages maximum) application that 1) documents their eligibility for the award (including description of their career interruption if their PhD was granted in 2013-4); 2) outlines the proposed request and how the award will be spent on it; and 3) provides a short justification of the request in terms of its expected career benefit. 
+Applicants will submit a short (two pages maximum) application that 1) documents their eligibility for the award (including description of their career interruption if appropriate); 2) outlines the proposed request and how the award will be spent on it; and 3) provides a short justification of the request in terms of its expected career benefit. 
 
 ### Early Career Publication Awards
 
